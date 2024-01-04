@@ -1,5 +1,10 @@
 # Revision history for qt-mage
 
-## 0.1.0.0 -- YYYY-mm-dd
+## 0.1.0.0 -- 2024-01-03
 
-* First version. Released on an unsuspecting world.
+* Alpha version. Added basic mechanics and a first simple boss.
+
+#### Upcoming
+
+* **Manual with ability descriptions.**
+* More bosses and abilities.
